@@ -1,11 +1,11 @@
 .jumbotron {
   padding-top: 7rem;
   background-color: rgb(219, 217, 217);
-  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif;
+  font-family: "EB Garamond", serif;
 }
 
 #about {
-  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif;
+  font-family: "EB Garamond", serif;
 }
 
 #gallery {
@@ -22,4 +22,7 @@ a {
 }
 a:hover {
   color: grey;
+}
+.container {
+  font-family: "EB Garamond", serif;
 }
