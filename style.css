@@ -1,11 +1,11 @@
 .jumbotron {
   padding-top: 7rem;
   background-color: rgb(219, 217, 217);
-  font-family: "EB Garamond", serif;
+  font-family: "Dosis", sans-serif;
 }
 
 #about {
-  font-family: "EB Garamond", serif;
+  font-family: "Dosis", sans-serif;
 }
 
 #gallery {
@@ -24,5 +24,9 @@ a:hover {
   color: grey;
 }
 .container {
-  font-family: "EB Garamond", serif;
+  font-family: "Dosis", sans-serif;
+}
+
+.footer {
+  font-family: "Dosis", sans-serif;
 }
